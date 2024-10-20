@@ -31,11 +31,20 @@ body {
   filter: blur(0.1vmin);
 }
 
-.happy-woman-day {
+.happy-woman-day-1 {
   color: white;
   font-size: 50px;
   position: fixed;
-  top: 80px;
+  top: 22px;
+}
+
+.happy-woman-day-2 {
+  color: #ffa4fb;
+  font-size: 31px;
+  position: fixed;
+  top: 95px;
+  font-weight: 500;
+  text-shadow: 2px 1px #ffa4fb;
 }
 
 .flowers {
