@@ -31,18 +31,17 @@ body {
   filter: blur(0.1vmin);
 }
 
-.happy-woman-day-1 {
+.happy-woman-day {
   color: white;
   font-size: 50px;
   position: fixed;
   top: 22px;
+  text-align: center;
 }
 
-.happy-woman-day-2 {
+.text-content {
   color: #ffa4fb;
   font-size: 31px;
-  position: fixed;
-  top: 95px;
   font-weight: 500;
   text-shadow: 2px 1px #ffa4fb;
 }
